@@ -256,6 +256,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   autoprefixer-rails
@@ -282,7 +283,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.3.26
